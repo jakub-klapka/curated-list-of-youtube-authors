@@ -1,9 +1,10 @@
 ## Aviation
 
 ### Learning
+
 | | | |
 |---|---|---|
-|![image](http://example.com/UCnK85B5INN2pRnAbdZ4tYaQ)|[A2A Simulations](https://www.youtube.com/user/ShockwaveProd/videos)|Creators of study-level simulator products. Their videos usualy presents their products, but usualy holds lots of information in general.|
+| ![image](http://example.com/UCnK85B5INN2pRnAbdZ4tYaQ) | [A2A Simulations](https://www.youtube.com/user/ShockwaveProd/videos) | Creators of study-level simulator products. Their videos usualy presents their products, but usualy holds lots of information in general. |
 
 ## Science
 
