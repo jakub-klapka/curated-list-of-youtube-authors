@@ -4,48 +4,41 @@
 
 ||||
 |---|---|---|
-| ![image](http://example.com/UCnK85B5INN2pRnAbdZ4tYaQ) | [A2A Simulations](https://www.youtube.com/user/ShockwaveProd/videos) | Creators of study-level simulator products. Their videos usualy presents their products, but usualy holds lots of information in general. |
+| ![Ask captain Scott](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/askcaptaionscott.jpg) | [Ask captain Scott]() | Video blog of 747 Captain. Also some training videos on GA aircrafts. Not updated very often. |
+| ![abd](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/abdullah_ahmed.jpg) | [abdullah ahmed](https://www.youtube.com/channel/UC95_DZwE86C7MqVdecXd0yg/videos) | Very nice training videos for A320. Not updated anymore. |
+| ![A2A](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/a2a_simulations.jpg) | [A2A Simulations](https://www.youtube.com/user/ShockwaveProd/videos) | Creators of study-level simulator products. Their videos usualy presents their products, but usualy holds lots of information in general. |
+| ![baixadoetravado](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/baixadoetravado.jpg) | [baixadoetravado](https://www.youtube.com/user/baixadoetravado/videos) | Cockpit videos with notes, what is happening. |
+
+
+### Just nice to look at
+
+||||
+|---|---|---|
+| ![airbus](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/airbus.jpg) | [Airbus](https://www.youtube.com/user/airbus/videos) | Official Airbus channel, some marketing stuff and interesting flight videos. |
+| ![boeing](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/boeing.jpg) | [Boeing](https://www.youtube.com/channel/UC9IEkprr46ScglWU79HF5qQ) | Just like Airbus, keep away from marketing stuff and watch those, which has some airfootage in thumbnails. |
+| ![avturcruising](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/avturcruising.jpg) | [Avtur Cruising](https://www.youtube.com/channel/UCaJMI3UzKl5ciEfCBN4g1aw/videos) | Very nicely done 'Life of airline pilot' videos. |
+| ![balleka](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/balleka.jpg) | [Balleka](https://www.youtube.com/user/Balleka/videos) | Awesome gliding videos. |
+| ![Alonso Trujillo](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/alonso_trujillo.jpg) | [Alonso Trujillo](https://www.youtube.com/user/AlonsoTrjll/videos) | Nice, themed cockpit videos. Updated from time to time. |
+| ![airboyd](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/airboyd.jpg) | [Airboyd](https://www.youtube.com/user/airboyd/videos) | Often updated, mostly millitary, videos. Some of them are worth to look at |
+| | [Boeing Pilot](https://www.youtube.com/channel/UCwjwGviL7YU4zD5r91qwfQQ) | Few, nicely done, cocklit videos. Not updated very often. |
+| ![aviationweek](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/aviationweek.jpg) | [Aviation Week](https://www.youtube.com/user/AviationWeek/videos) | Official channel of US aviation magazine. Some of those videos are interesting, but you have to pick them. Updated regularly. |
+
+
+
+| ![](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/.jpg) | []() |  |
+
 
 ## Science
 
-[]()|[]()|[]()
----|---|---
-a|[2veritasium](https://www.youtube.com/channel/UC2LZO6swZ9SLUEOks3WnsfA)|test
+### Science in general
 
-## Welcome to GitHub Pages
+||||
+|---|---|---|
+| ![backstagescience](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/backstagescience.jpg) | [BackstageScience](https://www.youtube.com/user/BackstageScience/videos) | Reports about various science things, mostly engineering. Not updated anymore. |
 
-You can use the [editor on GitHub](https://github.com/jakub-klapka/curated-list-of-youtube-authors/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Engineering and stuff making
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jakub-klapka/curated-list-of-youtube-authors/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+||||
+|---|---|---|
+| ![Applied Science](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/applied_science.jpg) | [Applied Science](https://www.youtube.com/user/bkraz333/videos) | Quite in-depth videos of creating various things and tools. From chemistry to electronics, pretty much everything. |
+| ![beardedscienceguy](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/beardedscienceguy.jpg) | [Bearded Science Guy](https://www.youtube.com/channel/UCJv7SB7pw5YzW6mdyV0ktdw) | Shorter vieos with various experiments, which you can do at home. |
