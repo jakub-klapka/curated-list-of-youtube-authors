@@ -34,6 +34,7 @@ Each category is roughly sorted by my preferences. Just pick a category and star
 | ![avturcruising](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/avturcruising.jpg) | [Avtur Cruising](https://www.youtube.com/channel/UCaJMI3UzKl5ciEfCBN4g1aw/videos) | Very nicely done 'Life of airline pilot' videos. |
 | ![hightpressure](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/hightpressure.jpg) | [High Pressure Aviation Films](https://www.youtube.com/user/higher1983/videos) | Nicely done atmospheric cockipt videos. |
 | ![balleka](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/balleka.jpg) | [Balleka](https://www.youtube.com/user/Balleka/videos) | Awesome gliding videos. |
+| ![yannick](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/yannick.jpg) | [Yannick Barthe](https://www.youtube.com/user/Aeromedia/videos) | Very nicely done spotting/flying videos. |
 | ![flugsnug](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/flugsnug.jpg) | [FlugSnug](https://www.youtube.com/user/flugsnug/videos) | Beautiful spotting shots. |
 | ![cargospotter](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/cargospotter.jpg) | [Cargospotter](https://www.youtube.com/user/Cargospotter/videos) | Very nice spotting videos. |
 | ![speedbird](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/speedbird.jpg) | [SpeedbirdHD](https://www.youtube.com/user/SpeedbirdHD/videos) | And another one. |
@@ -47,35 +48,9 @@ Each category is roughly sorted by my preferences. Just pick a category and star
 | ![dexteraviation](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/dexteraviation.jpg) | [Dexter Aviation](https://www.youtube.com/user/Dexter11929/videos) | Nicely done simuator videos. |
 | ![aviationweek](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/aviationweek.jpg) | [Aviation Week](https://www.youtube.com/user/AviationWeek/videos) | Official channel of US aviation magazine. Some of those videos are interesting, but you have to pick them. Updated regularly. |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| ![](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/.jpg) | []() |  |
-
-
-
-
-
 ## Science
 
-### Physics, maths and computer focused channels
+### Physics, maths, astronomy and computer focused channels
 
 ||||
 |---|---|---|
@@ -83,6 +58,7 @@ Each category is roughly sorted by my preferences. Just pick a category and star
 | ![numberphile](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/numberphile.jpg) | [Numberphile](https://www.youtube.com/user/numberphile/videos) | Great maths videos by Brady Haran. Check their calculator unboxing series. |
 | ![minutephysics](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/minutephysics.jpg) | [MinutePhysics](https://www.youtube.com/user/minutephysics/videos) | Great, short clips mostly about physics phenomenons. Advanced topics. |
 | ![physicsgirl](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/physicsgirl.jpg) | [Physics Girl](https://www.youtube.com/user/physicswoman/videos) | PBS special about physics. |
+| ![vintagespace](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/vintagespace.jpg) | [Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg/videos) | Great channel about space engineering, mostly about space race. |
 | ![computerphile](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/computerphile.jpg) | [Computerphile](https://www.youtube.com/user/Computerphile/videos) | Education videos about various HW and SW concept by Brady Haran. Sister channel to Numberphile. |
 | ![deepskyvideos](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/deepskyvideos.jpg) | [Deep Sky Videos](https://www.youtube.com/user/DeepSkyVideos/videos) | Videos about interesting sky formations. By Brady Haran. |
 | ![singingbanana](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/singingbanana.jpg) | [singingbanana](https://www.youtube.com/user/singingbanana/videos) | Maths teacher with some talent. |
@@ -92,12 +68,15 @@ Each category is roughly sorted by my preferences. Just pick a category and star
 
 ||||
 |---|---|---|
+| ![veritaisum](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/veritaisum.jpg) | [Veritaium](https://www.youtube.com/user/1veritasium/videos) | One of best science channel. Very interesting stuff. Check out also older videos about principles behind everyday things. |
 | ![kurzgesagt](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/kurzgesagt.jpg) | [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt/videos) | Educational videos about lot's of stuff. Science, history, technology, you name it. Awesome visuals, cute birds :) |
+| ![vsauce](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/vsauce.jpg) | [Vsauce](https://www.youtube.com/user/Vsauce/videos) | Just classic! |
 | ![backstagescience](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/backstagescience.jpg) | [BackstageScience](https://www.youtube.com/user/BackstageScience/videos) | Reports about various science things, mostly engineering. Not updated anymore. |
 | ![backyardscientist](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/backyardscientist.jpg) | [TheBackyardScientist](https://www.youtube.com/user/TheBackyardScientist/videos) | Great experiments from backyard. |
 | ![sistysymbols](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/sistysymbols.jpg) | [Sixty Symbols](https://www.youtube.com/user/sixtysymbols/videos) | Another great science in general reports. |
 | ![minuteearth](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/minuteearth.jpg) | [MinuteEarth](https://www.youtube.com/user/minuteearth/videos) | Short videos about on-earth processes and some eco stuff. |
 | ![nasa](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/nasa.jpg) | [NASA Johnson](https://www.youtube.com/user/ReelNASA/videos) | Official NASA channel, sometimes interesting videos. News segments about ISS every week. |
+| ![wendover](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/wendover.jpg) | [Wendover Productions](https://www.youtube.com/user/Wendoverproductions/videos) | Interesting facst about world economy. |
 
 ### Engineering and stuff making
 
