@@ -90,7 +90,7 @@ Each category is roughly sorted by my preferences. Just pick a category and star
 | ![beardedscienceguy](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/beardedscienceguy.jpg) | [Bearded Science Guy](https://www.youtube.com/channel/UCJv7SB7pw5YzW6mdyV0ktdw) | Shorter vieos with various experiments, which you can do at home. |
 | ![natlo](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/natlo.jpg) | [Nat and Lo](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A/videos) | Inside look on some Google projects. |
 
-## Just fun and interesting
+# Just fun and interesting
 
 ||||
 |---|---|---|
