@@ -1,6 +1,6 @@
 Each category is roughly sorted by my preferences. Just pick a category and start from top.
 
-## Aviation
+# Aviation
 
 ### Learning
 
@@ -48,21 +48,7 @@ Each category is roughly sorted by my preferences. Just pick a category and star
 | ![dexteraviation](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/dexteraviation.jpg) | [Dexter Aviation](https://www.youtube.com/user/Dexter11929/videos) | Nicely done simuator videos. |
 | ![aviationweek](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/aviationweek.jpg) | [Aviation Week](https://www.youtube.com/user/AviationWeek/videos) | Official channel of US aviation magazine. Some of those videos are interesting, but you have to pick them. Updated regularly. |
 
-## Science
-
-### Physics, maths, astronomy and computer focused channels
-
-||||
-|---|---|---|
-| ![standupmaths](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/standupmaths.jpg) | [Matt Parker](https://www.youtube.com/user/standupmaths/videos) | Awesome maths stuff, with some fun built into it. |
-| ![numberphile](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/numberphile.jpg) | [Numberphile](https://www.youtube.com/user/numberphile/videos) | Great maths videos by Brady Haran. Check their calculator unboxing series. |
-| ![minutephysics](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/minutephysics.jpg) | [MinutePhysics](https://www.youtube.com/user/minutephysics/videos) | Great, short clips mostly about physics phenomenons. Advanced topics. |
-| ![physicsgirl](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/physicsgirl.jpg) | [Physics Girl](https://www.youtube.com/user/physicswoman/videos) | PBS special about physics. |
-| ![vintagespace](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/vintagespace.jpg) | [Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg/videos) | Great channel about space engineering, mostly about space race. |
-| ![computerphile](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/computerphile.jpg) | [Computerphile](https://www.youtube.com/user/Computerphile/videos) | Education videos about various HW and SW concept by Brady Haran. Sister channel to Numberphile. |
-| ![deepskyvideos](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/deepskyvideos.jpg) | [Deep Sky Videos](https://www.youtube.com/user/DeepSkyVideos/videos) | Videos about interesting sky formations. By Brady Haran. |
-| ![singingbanana](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/singingbanana.jpg) | [singingbanana](https://www.youtube.com/user/singingbanana/videos) | Maths teacher with some talent. |
-| ![eso](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/eso.jpg) | [European Southern Observatory (ESO)](https://www.youtube.com/user/ESOobservatory/videos) | Their ESOCast is my weekly dose of beutiful sky images :) |
+# Science
 
 ### Science in general
 
@@ -77,6 +63,20 @@ Each category is roughly sorted by my preferences. Just pick a category and star
 | ![minuteearth](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/minuteearth.jpg) | [MinuteEarth](https://www.youtube.com/user/minuteearth/videos) | Short videos about on-earth processes and some eco stuff. |
 | ![nasa](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/nasa.jpg) | [NASA Johnson](https://www.youtube.com/user/ReelNASA/videos) | Official NASA channel, sometimes interesting videos. News segments about ISS every week. |
 | ![wendover](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/wendover.jpg) | [Wendover Productions](https://www.youtube.com/user/Wendoverproductions/videos) | Interesting facst about world economy. |
+
+### Physics, maths, astronomy and computer focused channels
+
+||||
+|---|---|---|
+| ![standupmaths](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/standupmaths.jpg) | [Matt Parker](https://www.youtube.com/user/standupmaths/videos) | Awesome maths stuff, with some fun built into it. |
+| ![numberphile](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/numberphile.jpg) | [Numberphile](https://www.youtube.com/user/numberphile/videos) | Great maths videos by Brady Haran. Check their calculator unboxing series. |
+| ![minutephysics](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/minutephysics.jpg) | [MinutePhysics](https://www.youtube.com/user/minutephysics/videos) | Great, short clips mostly about physics phenomenons. Advanced topics. |
+| ![physicsgirl](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/physicsgirl.jpg) | [Physics Girl](https://www.youtube.com/user/physicswoman/videos) | PBS special about physics. |
+| ![vintagespace](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/vintagespace.jpg) | [Vintage Space](https://www.youtube.com/channel/UCw95T_TgbGHhTml4xZ9yIqg/videos) | Great channel about space engineering, mostly about space race. |
+| ![computerphile](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/computerphile.jpg) | [Computerphile](https://www.youtube.com/user/Computerphile/videos) | Education videos about various HW and SW concept by Brady Haran. Sister channel to Numberphile. |
+| ![deepskyvideos](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/deepskyvideos.jpg) | [Deep Sky Videos](https://www.youtube.com/user/DeepSkyVideos/videos) | Videos about interesting sky formations. By Brady Haran. |
+| ![singingbanana](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/singingbanana.jpg) | [singingbanana](https://www.youtube.com/user/singingbanana/videos) | Maths teacher with some talent. |
+| ![eso](https://raw.githubusercontent.com/jakub-klapka/curated-list-of-youtube-authors/master/assets/images/eso.jpg) | [European Southern Observatory (ESO)](https://www.youtube.com/user/ESOobservatory/videos) | Their ESOCast is my weekly dose of beutiful sky images :) |
 
 ### Engineering and stuff making
 
